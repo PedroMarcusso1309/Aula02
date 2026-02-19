@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// -- Arquivo Program.cgi
+Exercicio1.Executar();
+//Exercicio1.Executar();
+//Exercicio3.Executar();
